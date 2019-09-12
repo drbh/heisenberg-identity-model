@@ -1,0 +1,66 @@
+[
+   {
+      "uuid": 77,
+      "type": "emplid",
+      "claimer": "asu",
+      "target": "Sparky",
+      "psuedo": "student-0412",
+      "reason": 0
+   },
+   {
+      "uuid":2,
+      "type":"emplid",
+      "claimer":"asu",
+      "target":"David Richard Holtz",
+      "psuedo":"student-0034",
+      "reason":0
+   },
+   {
+      "uuid":4,
+      "type":"duid",
+      "claimer":"dsu",
+      "target":"David Richard Blyn Holtz",
+      "psuedo":"000231-learner",
+      "reason":0
+   },
+   {
+      "uuid":14,
+      "type":"myid",
+      "claimer":"dcc",
+      "target":"D. Holtz",
+      "psuedo":"56-90-92",
+      "reason":0
+   },
+   {
+      "uuid":8,
+      "type":"oauthed",
+      "claimer":"asu",
+      "target":"uport:did-000",
+      "psuedo":"student-0034",
+      "reason":2
+   },
+   {
+      "uuid":5,
+      "type":"oauthed",
+      "claimer":"dsu",
+      "target":"uport:did-000",
+      "psuedo":"000231-learner",
+      "reason":4
+   },
+   {
+      "uuid":9,
+      "type":"oauthed",
+      "claimer":"dsu",
+      "target":"drbh@gmail.com",
+      "psuedo":"000231-learner",
+      "reason":4
+   },
+   {
+      "uuid":11,
+      "type":"oauthed",
+      "claimer":"dcc",
+      "target":"drbh@gmail.com",
+      "psuedo":"56-90-92",
+      "reason":14
+   }
+]
